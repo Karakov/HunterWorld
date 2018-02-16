@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "336627577626",
+    "firebase_url": "https://hunter-world.firebaseio.com",
+    "project_id": "hunter-world",
+    "storage_bucket": "hunter-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336627577626:android:b5b2bb582ab33139",
+        "android_client_info": {
+          "package_name": "com.example.ivan.hunterworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336627577626-cl876jdbfub3f06fpindvp9hgc5tsh5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ivan.hunterworld",
+            "certificate_hash": "3eeae80fb9b84afadf49b58f29a4ac7e3a335466"
+          }
+        },
+        {
+          "client_id": "336627577626-j8fnm5g3pegrtvvkuiuvmp6ojou3qcgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDibIpF1TI56nq287fPETkkf3WGeDr4Rpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336627577626-j8fnm5g3pegrtvvkuiuvmp6ojou3qcgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
