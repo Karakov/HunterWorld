@@ -5,6 +5,8 @@
     android:orientation="vertical"
     android:background="@color/myColor">
 
+    <!--Если ресурс не используется, от него лучше избавиться-->
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
